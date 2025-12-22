@@ -5,3 +5,6 @@
 - Refined some Dynamic Tokens (read: broke em, imminent fix on its way)
 - Mod specific patches are now seperate data fiels loaded only if the mod is present
 - Probably other things I forgor
+
+## 1.4.0 (2)
+- Fixes to the code. 

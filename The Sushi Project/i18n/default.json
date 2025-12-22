@@ -1,6 +1,6 @@
 {
     /// Config
-    "config.ColorScheme.name": "Color Scheme",
+    "config.ColorScheme.name": "Stall Color Scheme",
     "config.ColorScheme.description": "Changes the visuals of the stall.", // FOR TRANSLATORS: NEW IN 1.4.0
     "config.ColorScheme.values.Vanilla": "Vanilla",
     "config.ColorScheme.values.Desaturated": "Desaturated",

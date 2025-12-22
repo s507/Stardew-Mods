@@ -109,7 +109,7 @@
             "Name": "BookVisual",
             "Value": "1",
             "When": {
-                "Book Style": "VT"
+                "BookStyle": "VT"
             }
         }
     ],

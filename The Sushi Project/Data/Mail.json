@@ -25,7 +25,7 @@
                     "Actions": [
                         "AddMail Current Sushi_Stall_Mail now"
                     ],
-                    "MarkActionApplied": "{{Sushi Letter Frequency|contains=Once}}"
+                    "MarkActionApplied": "{{SushiLetterFrequency|contains=Once}}"
                 }
             }
         }

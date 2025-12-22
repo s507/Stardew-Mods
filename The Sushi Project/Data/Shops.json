@@ -158,7 +158,7 @@
 							"PriceModifiers": [
 								{
 									"Modification": "Divide",
-									"Amount": "{{Item Price Modifier}}"
+									"Amount": "{{ItemPriceModifier}}"
 								}
 							]
 						},
@@ -173,7 +173,7 @@
 							"PriceModifiers": [
 								{
 									"Modification": "Divide",
-									"Amount": "{{Recipe Price Modifier}}"
+									"Amount": "{{RecipePriceModifier}}"
 								}
 							]
 						}

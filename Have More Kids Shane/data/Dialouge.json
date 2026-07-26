@@ -15,99 +15,91 @@
                 "HMK_Endearment_Male": "dad",
                 "HMK_Endearment_Female": "mama",
                 //
-                "FarmHouse_Mon": "{{i18n:{{ModId}}_boy1.Dialog.Mon}}",
+                "FarmHouse_Mon": "{{i18n:boy1.Dialog.Mon}}",
                 "Farm_Mon": "dialog",
-                "Tue": "{{i18n:{{ModId}}_boy1.Dialog.Tue}}",
-                "Wed": "{{i18n:{{ModId}}_boy1.Dialog.Wed}}",
-                "Thu": "{{i18n:{{ModId}}_boy1.Dialog.Thu}}",
-                "Fri": "{{i18n:{{ModId}}_boy1.Dialog.Fri}}",
-                "Sat": "{{i18n:{{ModId}}_boy1.Dialog.Sat}}",
-                "Sun": "{{i18n:{{ModId}}_boy1.Dialog.Sun}}",
+                "Tue": "{{i18n:boy1.Dialog.Tue}}",
+                "Wed": "{{i18n:boy1.Dialog.Wed}}",
+                "Thu": "{{i18n:boy1.Dialog.Thu}}",
+                "Fri": "{{i18n:boy1.Dialog.Fri}}",
+                "Sat": "{{i18n:boy1.Dialog.Sat}}",
+                "Sun": "{{i18n:boy1.Dialog.Sun}}",
                 //
-                "GreenRain": "{{i18n:{{ModId}}_boy1.Dialog.GreenRain}}",
-                "GreenRain_2": "{{i18n:{{ModId}}_boy1.Dialog.GreenRain2}}",
+                "GreenRain": "{{i18n:boy1.Dialog.GreenRain}}",
+                "GreenRain_2": "{{i18n:boy1.Dialog.GreenRain2}}",
                 //
-                "fall_27_*": "{{i18n:{{ModId}}_boy1.Dialog.fall27}}"
+                "fall_27_*": "{{i18n:boy1.Dialog.fall27}}"
             }
         },
         {
             "Action": "EditData",
             "Target": "Characters/Dialogue/{{ModId}}_boy2",
             "Entries": {
-                "HMK_Endearment_Male": "dad",
-                "HMK_Endearment_Female": "mama",
-                //
-                "FarmHouse_Mon": "{{i18n:{{ModId}}_boy2.Dialog.Mon}}",
+                "FarmHouse_Mon": "{{i18n:boy2.Dialog.Mon}}",
                 "Farm_Mon": "dialog",
-                "Tue": "{{i18n:{{ModId}}_boy2.Dialog.Tue}}",
-                "Wed": "{{i18n:{{ModId}}_boy2.Dialog.Wed}}",
-                "Thu": "{{i18n:{{ModId}}_boy2.Dialog.Thu}}",
-                "Fri": "{{i18n:{{ModId}}_boy2.Dialog.Fri}}",
-                "Sat": "{{i18n:{{ModId}}_boy2.Dialog.Sat}}",
-                "Sun": "{{i18n:{{ModId}}_boy2.Dialog.Sun}}",
+                "Tue": "{{i18n:boy2.Dialog.Tue}}",
+                "Wed": "{{i18n:boy2.Dialog.Wed}}",
+                "Thu": "{{i18n:boy2.Dialog.Thu}}",
+                "Fri": "{{i18n:boy2.Dialog.Fri}}",
+                "Sat": "{{i18n:boy2.Dialog.Sat}}",
+                "Sun": "{{i18n:boy2.Dialog.Sun}}",
                 //
-                "GreenRain": "{{i18n:{{ModId}}_boy2.Dialog.GreenRain}}",
-                "GreenRain_2": "{{i18n:{{ModId}}_boy2.Dialog.GreenRain2}}",
+                "GreenRain": "{{i18n:boy2.Dialog.GreenRain}}",
+                "GreenRain_2": "{{i18n:boy2.Dialog.GreenRain2}}",
                 //
-                "fall_27_*": "{{i18n:{{ModId}}_boy2.Dialog.fall27}}"
+                "fall_27_*": "{{i18n:boy2.Dialog.fall27}}"
             }
         },
         {
             "Action": "EditData",
             "Target": "Characters/Dialogue/{{ModId}}_girl1",
             "Entries": {
-                "HMK_Endearment_Male": "dad",
-                "HMK_Endearment_Female": "mama",
-                //
-                "FarmHouse_Mon": "{{i18n:{{ModId}}_girl1.Dialog.Mon}}",
+                "FarmHouse_Mon": "{{i18n:girl1.Dialog.Mon}}",
                 "Farm_Mon": "dialog",
-                "Tue": "{{i18n:{{ModId}}_girl1.Dialog.Tue}}",
-                "Wed": "{{i18n:{{ModId}}_girl1.Dialog.Wed}}",
-                "Thu": "{{i18n:{{ModId}}_girl1.Dialog.Thu}}",
-                "Fri": "{{i18n:{{ModId}}_girl1.Dialog.Fri}}",
-                "Sat": "{{i18n:{{ModId}}_girl1.Dialog.Sat}}",
-                "Sun": "{{i18n:{{ModId}}_girl1.Dialog.Sun}}",
+                "Tue": "{{i18n:girl1.Dialog.Tue}}",
+                "Wed": "{{i18n:girl1.Dialog.Wed}}",
+                "Thu": "{{i18n:girl1.Dialog.Thu}}",
+                "Fri": "{{i18n:girl1.Dialog.Fri}}",
+                "Sat": "{{i18n:girl1.Dialog.Sat}}",
+                "Sun": "{{i18n:girl1.Dialog.Sun}}",
                 //
-                "GreenRain": "{{i18n:{{ModId}}_girl1.Dialog.GreenRain}}",
-                "GreenRain_2": "{{i18n:{{ModId}}_girl1.Dialog.GreenRain2}}",
+                "GreenRain": "{{i18n:girl1.Dialog.GreenRain}}",
+                "GreenRain_2": "{{i18n:girl1.Dialog.GreenRain2}}",
                 //
-                "fall_27_*": "{{i18n:{{ModId}}_girl1.Dialog.fall27}}"
+                "fall_27_*": "{{i18n:girl1.Dialog.fall27}}"
             }
         },
         {
             "Action": "EditData",
-            "Target": "Characters/Dialogue/{{ModId}}_girl2",
+            "Target": "Characters/Dialogue/girl2",
             "Entries": {
-                "HMK_Endearment_Male": "dad",
-                "HMK_Endearment_Female": "mama",
-                //
-                "FarmHouse_Mon": "{{i18n:{{ModId}}_girl2.Dialog.Mon}}",
+
+                "FarmHouse_Mon": "{{i18n:girl2.Dialog.Mon}}",
                 "Farm_Mon": "dialog",
-                "Tue": "{{i18n:{{ModId}}_girl2.Dialog.Tue}}",
-                "Wed": "{{i18n:{{ModId}}_girl2.Dialog.Wed}}",
-                "Thu": "{{i18n:{{ModId}}_girl2.Dialog.Thu}}",
-                "Fri": "{{i18n:{{ModId}}_girl2.Dialog.Fri}}",
-                "Sat": "{{i18n:{{ModId}}_girl2.Dialog.Sat}}",
-                "Sun": "{{i18n:{{ModId}}_girl2.Dialog.Sun}}",
+                "Tue": "{{i18n:girl2.Dialog.Tue}}",
+                "Wed": "{{i18n:girl2.Dialog.Wed}}",
+                "Thu": "{{i18n:girl2.Dialog.Thu}}",
+                "Fri": "{{i18n:girl2.Dialog.Fri}}",
+                "Sat": "{{i18n:girl2.Dialog.Sat}}",
+                "Sun": "{{i18n:girl2.Dialog.Sun}}",
                 //
-                "GreenRain": "{{i18n:{{ModId}}_girl2.Dialog.GreenRain}}",
-                "GreenRain_2": "{{i18n:{{ModId}}_girl2.Dialog.GreenRain2}}",
+                "GreenRain": "{{i18n:girl2.Dialog.GreenRain}}",
+                "GreenRain_2": "{{i18n:girl2.Dialog.GreenRain2}}",
                 //
-                "fall_27_*": "{{i18n:{{ModId}}_girl2.Dialog.fall27}}"
+                "fall_27_*": "{{i18n:girl2.Dialog.fall27}}"
             }
         },
         {
             "Action": "EditData",
             "Target": "Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/fall16, Data/Festivals/fall27, Data/Festivals/winter8, Data/Festivals/winter25",
             "Entries": {
-                "{{ModId}}_{{ModId}}_boy1": "{{i18n:{{ModId}}_boy1.FestDialog.{{TargetWithoutPath}} }}",
-                "{{ModId}}_{{ModId}}_boy1_2": "{{i18n:{{ModId}}_boy1.FestDialog.{{TargetWithoutPath}} }}",
-                "{{ModId}}_{{ModId}}_boy2": "{{i18n:{{ModId}}_boy2.FestDialog.{{TargetWithoutPath}} }}",
-                "{{ModId}}_{{ModId}}_boy2_2": "{{i18n:{{ModId}}_boy2.FestDialog.{{TargetWithoutPath}} }}",
-                "{{ModId}}_{{ModId}}_girl1": "{{i18n:{{ModId}}_girl1.FestDialog.{{TargetWithoutPath}} }}",
-                "{{ModId}}_{{ModId}}_girl1_2": "{{i18n:{{ModId}}_girl1.FestDialog.{{TargetWithoutPath}} }}",
-                "{{ModId}}_{{ModId}}_girl2": "{{i18n:{{ModId}}_girl2.FestDialog.{{TargetWithoutPath}} }}",
-                "{{ModId}}_{{ModId}}_girl2_2": "{{i18n:{{ModId}}_girl2.FestDialog.{{TargetWithoutPath}} }}"
+                "{{ModId}}_boy1": "{{i18n:boy1.FestDialog.{{TargetWithoutPath}} }}",
+                "{{ModId}}_boy1_2": "{{i18n:boy1.FestDialog.{{TargetWithoutPath}} }}",
+                "{{ModId}}_boy2": "{{i18n:boy2.FestDialog.{{TargetWithoutPath}} }}",
+                "{{ModId}}_boy2_2": "{{i18n:boy2.FestDialog.{{TargetWithoutPath}} }}",
+                "{{ModId}}_girl1": "{{i18n:girl1.FestDialog.{{TargetWithoutPath}} }}",
+                "{{ModId}}_girl1_2": "{{i18n:girl1.FestDialog.{{TargetWithoutPath}} }}",
+                "{{ModId}}_girl2": "{{i18n:girl2.FestDialog.{{TargetWithoutPath}} }}",
+                "{{ModId}}_girl2_2": "{{i18n:girl2.FestDialog.{{TargetWithoutPath}} }}"
             }
         }
     ]

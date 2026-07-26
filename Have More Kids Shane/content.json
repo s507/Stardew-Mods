@@ -11,7 +11,7 @@
             // Derek
             "LogName": "boy 1 data",
             "Action": "Include",
-            "FromFile": "data/Data.json",
+            "FromFile": "data/Kid.json",
             "LocalTokens": {
                 "L@Kid": "boy1",
                 "L@Gender": "Male",
@@ -23,7 +23,7 @@
             // Peter
             "LogName": "boy 2 data",
             "Action": "Include",
-            "FromFile": "data/Data.json",
+            "FromFile": "data/Kid.json",
             "LocalTokens": {
                 "L@Kid": "boy2",
                 "L@Gender": "Male",
@@ -35,7 +35,7 @@
             // Emilia
             "LogName": "girl 1 data",
             "Action": "Include",
-            "FromFile": "data/Data.json",
+            "FromFile": "data/Kid.json",
             "LocalTokens": {
                 "L@Kid": "girl1",
                 "L@Gender": "Female",
@@ -47,7 +47,7 @@
             // Charlotte
             "LogName": "girl 2 data",
             "Action": "Include",
-            "FromFile": "data/Data.json",
+            "FromFile": "data/Kid.json",
             "LocalTokens": {
                 "L@Kid": "girl2",
                 "L@Gender": "Female",

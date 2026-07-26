@@ -1,0 +1,11 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Evelyn",
+            "Entries": {
+                "AcceptGift_{{ModId}}_seafood": "{{i18n:words}}"
+            }
+        }
+    ]
+}

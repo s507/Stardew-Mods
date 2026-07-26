@@ -54,28 +54,6 @@
         },
         {
             "Action": "EditData",
-            "Target": "Characters/Dialogue/{{ModId}}_boy2",
-            "Entries": {
-                "HMK_Endearment_Male": "dad",
-                "HMK_Endearment_Female": "mama",
-                //
-                "FarmHouse_Mon": "{{i18n:{{ModId}}_boy2.Dialog.Mon}}",
-                "Farm_Mon": "dialog",
-                "Tue": "{{i18n:{{ModId}}_boy2.Dialog.Tue}}",
-                "Wed": "{{i18n:{{ModId}}_boy2.Dialog.Wed}}",
-                "Thu": "{{i18n:{{ModId}}_boy2.Dialog.Thu}}",
-                "Fri": "{{i18n:{{ModId}}_boy2.Dialog.Fri}}",
-                "Sat": "{{i18n:{{ModId}}_boy2.Dialog.Sat}}",
-                "Sun": "{{i18n:{{ModId}}_boy2.Dialog.Sun}}",
-                //
-                "GreenRain": "{{i18n:{{ModId}}_boy2.Dialog.GreenRain}}",
-                "GreenRain_2": "{{i18n:{{ModId}}_boy2.Dialog.GreenRain2}}",
-                //
-                "fall_27_*": "{{i18n:{{ModId}}_boy2.Dialog.fall27}}"
-            }
-        },
-        {
-            "Action": "EditData",
             "Target": "Characters/Dialogue/{{ModId}}_girl1",
             "Entries": {
                 "HMK_Endearment_Male": "dad",

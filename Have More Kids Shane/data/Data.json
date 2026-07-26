@@ -53,7 +53,7 @@
                 "{{ModId}}_{{L@Kid}}": {
                     "DisplayName": "{{i18n:{{L@Kid}}.DisplayName}}",
                     "Gender": "{{L@Gender}}",
-                    "IsNPCTodayCondition": "!WEATHER Farm GreenRain Rain Snow Storm",
+                    "IsNPCTodayCondition": "True",
                     "Home": [
                         {
                             "Id": "default",

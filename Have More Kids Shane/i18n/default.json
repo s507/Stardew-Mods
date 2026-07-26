@@ -1,0 +1,238 @@
+{
+    // ➤➤➤ ｂｏｙ １ - Derek
+    // $0 - netural, $1 happy, $2 sad, $3 curious, $4 dissapointed(?), $5 angry, $6 excited   
+    //                                            
+    "boy1.DisplayName": "Derek",
+    "boy1.Dialog.Mon": "I'm tired$4",
+    "boy1.Dialog.Tue": "Tue Dialogue",
+    "boy1.Dialog.Wed": "Wed Dialogue",
+    "boy1.Dialog.Thu": "Thu Dialogue",
+    "boy1.Dialog.Fri": "Fri Dialogue",
+    "boy1.Dialog.Sat": "Sat Dialogue",
+    "boy1.Dialog.Sun": "Sun Dialogue",
+    //
+    // ⸻⸻⸻⸻⸻ //
+    // WEATHER COMMENTS //
+    "boy1.Dialog.GreenRain": "Everything is green$3",
+    "boy1.Dialog.GreenRain2": "Here we go again",
+    // ⸻⸻⸻⸻⸻ //
+    // FESTIVAL DAYS (NOT IN THE LOCATION)
+    //
+    "boy1.Dialog.fall27": "I love to dress up!$1",
+    //                                                  
+    // ⸻⸻⸻⸻⸻ //
+    // ACTIVE FESTIVALS                                         
+    // 
+    // Egg Festival
+    "boy1.FestDialog.spring13": "Egg Festival",
+    "boy1.FestDialog.Year2.spring13": "Egg Festival",
+    // FlowerDance
+    "boy1.FestDialog.spring24": "When can we go?$2",
+    // Luau
+    "boy1.FestDialog.summer11": "Luau",
+    // Dance of the Moonlight Jellies
+    "boy1.FestDialog.summer28": "Dance of the Moonlight Jellies",
+    // Stardew Valley Fair
+    "boy1.FestDialog.fall16": "Stardew Valley Fair",
+    // Spirit's Eve
+    "boy1.FestDialog.fall27": "Everyone looks so cool! I look cool too right Mama?",
+    // Festival of Ice
+    "boy1.FestDialog.winter8": "Festival of Ice",
+    // Feast of the Winter Star
+    "boy1.FestDialog.winter25": "Feast of the Winter Star",
+    //                                                  
+    // ⸻⸻⸻⸻⸻ //
+    // PASSIVE FESTIVALS
+    //
+    // Desert Festival
+    "boy1.Dialog.DesertFestival": "Desert Festival",
+    //                                                                                                                               
+    // ⸻⸻⸻⸻⸻ //
+    // GIFT TASTES
+    //                                                                 
+    "boy1.Dialog.Gift.Love": "This is what I wanted!$6#$b#Did you read my mind to know?$3",
+    "boy1.Dialog.Gift.Like": "Liked Gift",
+    "boy1.Dialog.Gift.Dislike": "Dislike Gift",
+    "boy1.Dialog.Gift.Hate": "Hated Gift",
+    "boy1.Dialog.Gift.Neutral": "Neutral Gift",
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ➤➤➤ ｂｏｙ ２ - Peter
+    // $0 - netural, $1 happy, $2 sad, $3 curious, $4 dissapointed(?), $5 angry, $6 excited   
+    //                                                                                     
+    "boy2.DisplayName": "Peter",
+    "boy2.Dialog.Mon": "What $0",
+    "boy2.Dialog.Tue": "Tue Dialogue$1",
+    "boy2.Dialog.Wed": "Wed Dialogue$1",
+    "boy2.Dialog.Thu": "Thu Dialogue$3",
+    "boy2.Dialog.Fri": "Fri Dialogue$0",
+    "boy2.Dialog.Sat": "Sat Dialogue$2",
+    "boy2.Dialog.Sun": "Sun Dialogue$6",
+    //
+    // ⸻⸻⸻⸻⸻ //
+    // WEATHER COMMENTS //
+    "boy2.Dialog.GreenRain": "It's raining green!$1",
+    "boy2.Dialog.GreenRain2": "Why can't I go feel the rain?$2",
+    // ⸻⸻⸻⸻⸻ //
+    // FESTIVAL DAYS (NOT IN THE LOCATION)
+    //
+    "boy2.Dialog.fall27": "Can we carve a pumpkin for the festival mama? please please PLEASE$1",
+    //                                                  
+    // ⸻⸻⸻⸻⸻ //
+    // ACTIVE FESTIVALS                                         
+    // 
+    // Egg Festival
+    "boy2.FestDialog.spring13": "Egg Festival",
+    // FlowerDance
+    "boy2.FestDialog.spring24": "I love the flowers. Can I get a flower crown too?$6",
+    // Luau
+    "boy2.FestDialog.summer11": "Luau",
+    // Dance of the Moonlight Jellies
+    "boy2.FestDialog.summer28": "Dance of the Moonlight Jellies",
+    // Stardew Valley Fair
+    "boy2.FestDialog.fall16": "Stardew Valley Fair",
+    // Spirit's Eve
+    "boy2.FestDialog.fall27": "Spirit's Eve",
+    // Festival of Ice
+    "boy2.FestDialog.winter8": "Festival of Ice",
+    // Feast of the Winter Star
+    "boy2.FestDialog.winter25": "Feast of the Winter Star",
+    //                                                  
+    // ⸻⸻⸻⸻⸻ //
+    // PASSIVE FESTIVALS
+    //
+    // Desert Festival
+    "boy2.Dialog.DesertFestival": "Desert Festival",
+    //                                                                                                                               
+    // ⸻⸻⸻⸻⸻ //
+    // GIFT TASTES
+    //       
+    "boy2.Dialog.Gift.Love": "This is why you're my favorite!$6",
+    "boy2.Dialog.Gift.Like": "Liked Gift",
+    "boy2.Dialog.Gift.Dislike": "Dislike Gift",
+    "boy2.Dialog.Gift.Hate": "Hated Gift",
+    "boy2.Dialog.Gift.Neutral": "Neutral Gift",
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ➤➤➤ ｇｉｒｌ １ - Emilia
+    // $0 - netural, $1 happy, $2 sad, $3 curious, $4 dissapointed(?), $5 angry, $6 excited   
+    //
+    "girl1.DisplayName": "Emilia",
+    "girl1.Dialog.Mon": "Can I go back to bed?$4",
+    "girl1.Dialog.Tue": "I'm still a little sleepy...$4",
+    "girl1.Dialog.Wed": "Can we PLEASE get pancakes??? please please please$1",
+    "girl1.Dialog.Thu": "Aunt Marnie said chickens lay eggs. From where?$3",
+    "girl1.Dialog.Fri": "It's friday!!! That means MORE NAPS!$1",
+    "girl1.Dialog.Sat": "Sat Dialogue$2",
+    "girl1.Dialog.Sun": "Sun Dialogue$6",
+    //
+    // ⸻⸻⸻⸻⸻ //
+    // WEATHER COMMENTS //
+    "girl1.Dialog.GreenRain": "Everything is green$3",
+    "girl1.Dialog.GreenRain2": "Here we go again",
+    // ⸻⸻⸻⸻⸻ //
+    // FESTIVAL DAYS (NOT IN THE LOCATION)
+    //
+    "girl1.Dialog.fall27": "I can't wait for Spirits Eve!!$1#$b#But it's sooo late, I hope I don't fall asleep.$3",
+    //
+    // ⸻⸻⸻⸻⸻ //
+    // ACTIVE FESTIVALS                                         
+    // 
+    // Egg Festival
+    "girl1.FestDialog.spring13": "Egg Festival",
+    // FlowerDance
+    "girl1.FestDialog.spring24": "I'm going to watch you dance!$1",
+    // Luau
+    "girl1.FestDialog.summer11": "Luau",
+    // Dance of the Moonlight Jellies
+    "girl1.FestDialog.summer28": "Dance of the Moonlight Jellies",
+    // Stardew Valley Fair
+    "girl1.FestDialog.fall16": "Stardew Valley Fair",
+    // Spirit's Eve
+    "girl1.FestDialog.fall27": "Spirit's Eve",
+    // Festival of Ice
+    "girl1.FestDialog.winter8": "Festival of Ice",
+    // Feast of the Winter Star
+    "girl1.FestDialog.winter25": "Feast of the Winter Star",
+    //                                                  
+    // ⸻⸻⸻⸻⸻ //
+    // PASSIVE FESTIVALS
+    //
+    // Desert Festival
+    "girl1.Dialog.DesertFestival": "Desert Festival",
+    //                                                                                                                               
+    // ⸻⸻⸻⸻⸻ //
+    // GIFT TASTES
+    //            
+    "girl1.Dialog.Gift.Love": "Thank you, thank you, thank you!!!$6",
+    "girl1.Dialog.Gift.Like": "Thanks.",
+    "girl1.Dialog.Gift.Dislike": "Yuck.",
+    "girl1.Dialog.Gift.Hate": "Are you mad at me?$3",
+    "girl1.Dialog.Gift.Neutral": "Okay.",
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ------------------------------------------------------------------------------------ //
+    // ➤➤➤ ｇｉｒｌ ２ - Charlotte
+    // $0 - netural, $1 happy, $2 sad, $3 curious, $4 dissapointed(?), $5 angry, $6 excited   
+    //   
+    "girl2.DisplayName": "Charlotte",
+    "girl2.Dialog.Mon": "I hate mondays.#$b# Can we do something fun today?$3",
+    "girl2.Dialog.Tue": "Good morning, Mama. I'm still a little sleepy...$4",
+    "girl2.Dialog.Wed": "Wed Dialogue$1",
+    "girl2.Dialog.Thu": "Thu Dialogue$3",
+    "girl2.Dialog.Fri": "Fri Dialogue$0",
+    "girl2.Dialog.Sat": "Sat Dialogue$2",
+    "girl2.Dialog.Sun": "Sun Dialogue$2",
+    //
+    // ⸻⸻⸻⸻⸻ //
+    // WEATHER COMMENTS //
+    "girl2.Dialog.GreenRain": "Everything is green$3",
+    "girl2.Dialog.GreenRain2": "Here we go again",
+    // ⸻⸻⸻⸻⸻ //
+    // FESTIVAL DAYS (NOT IN THE LOCATION)
+    //
+    "girl2.Dialog.fall27": "We're gonna have so much fun tonight!$1#$b#Am I old enough to enter the maze?$3#$b#Why not?$4",
+    //
+    // ⸻⸻⸻⸻⸻ //
+    // ACTIVE FESTIVALS                                         
+    // 
+    // Egg Festival
+    "girl2.FestDialog.spring13": "Egg Festival",
+    // FlowerDance
+    "girl2.FestDialog.spring24": "I'm also going to dance!$1",
+    // Luau
+    "girl2.FestDialog.summer11": "Luau",
+    // Dance of the Moonlight Jellies
+    "girl2.FestDialog.summer28": "Dance of the Moonlight Jellies",
+    // Stardew Valley Fair
+    "girl2.FestDialog.fall16": "Stardew Valley Fair",
+    // Spirit's Eve
+    "girl2.FestDialog.fall27": "Why can't I go to the maze?$4",
+    // Festival of Ice
+    "girl2.FestDialog.winter8": "Festival of Ice",
+    // Feast of the Winter Star
+    "girl2.FestDialog.winter25": "Feast of the Winter Star",
+    //                                                  
+    // ⸻⸻⸻⸻⸻ //
+    // PASSIVE FESTIVALS
+    //
+    // Desert Festival
+    "girl2.Dialog.DesertFestival": "Desert Festival",
+    //                                                                                                                               
+    // ⸻⸻⸻⸻⸻ //
+    // GIFT TASTES
+    //        
+    "girl2.Dialog.Gift.Love": "This makes me happy! $6",
+    "girl2.Dialog.Gift.Like": "Thanks.",
+    "girl2.Dialog.Gift.Dislike": "Yuck.",
+    "girl2.Dialog.Gift.Hate": "Are you mad at me?",
+    "girl2.Dialog.Gift.Neutral": "Okay."
+}

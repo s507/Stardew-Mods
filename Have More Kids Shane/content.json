@@ -57,7 +57,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "data/Dialouge.json, data/Dialouge.json, Data/GiftTastes.json, Data/Schedules.json"
+            "FromFile": "data/Dialouge.json, data/Dialouge.json, Data/GiftTastes.json, Data/Schedules.json, data/Misc.json"
         }
     ]
 }

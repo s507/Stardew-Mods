@@ -159,10 +159,6 @@
                     ]
                 }
             }
-        },
-             {
-            "Action": "Include",
-            "FromFile": "data/Misc.json"
         }
     ]
 }

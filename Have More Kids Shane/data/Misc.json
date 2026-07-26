@@ -1,0 +1,18 @@
+{
+    "Changes": [ //////////////////////////////////////////////////////////////////////////////
+        /// Adds twins
+        {
+            "Action": "EditData",
+            "Target": "mushymato.HaveMoreKids/Kids",
+            "Fields": {
+                /// makes Peter & Charlotte twins
+                "{{ModId}}_boy2": {
+                    "Twin": "{{ModId}}_girl2"
+                },
+                "{{ModId}}_girl2": {
+                    "Twin": "{{ModId}}_boy2"
+                }
+            }
+        }
+    ]
+}

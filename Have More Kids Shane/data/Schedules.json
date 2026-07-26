@@ -1,5 +1,5 @@
 {
-    "Changes": [ 
+    "Changes": [
         //////////////////////////////////////////////////////////////////////////////
         ///// Schedules 
         {
@@ -12,7 +12,7 @@
             "Target": "Characters/schedules/{{ModId}}_boy1",
             "Entries": {
                 "spring": "1000 Town 26 52 3/1300 Town 27 52 2 square_2_3/1010 Town 0 0 HMK_Home",
-                "winter": "800 ArchaeologyHouse 35 10 1 square_5_3",
+                "winter": "800 ArchaeologyHouse 35 10 1 square_5_3/1010 Town 0 0 HMK_Home",
                 "DesertFestival": "800 Desert 22 51/1200 Desert 24 31"
             }
         },
@@ -21,7 +21,7 @@
             "Target": "Characters/schedules/{{ModId}}_boy2",
             "Entries": {
                 "spring": "1000 Town 26 52 3/1300 Town 28 52 2 square_2_3/1010 Town 0 0 HMK_Home",
-                "winter": "800 ArchaeologyHouse 36 10 1 square_5_3",
+                "winter": "800 ArchaeologyHouse 36 10 1 square_5_3/1010 Town 0 0 HMK_Home",
                 "DesertFestival": "800 Desert 22 52/1200 Desert 25 32"
             }
         },
@@ -30,7 +30,7 @@
             "Target": "Characters/schedules/{{ModId}}_girl1",
             "Entries": {
                 "spring": "1000 Town 26 52 3/1300 Town 29 52 2 square_2_3/1010 Town 0 0 HMK_Home",
-                "winter": "800 ArchaeologyHouse 37 10 1 square_5_3",
+                "winter": "800 ArchaeologyHouse 37 10 1 square_5_3/1010 Town 0 0 HMK_Home",
                 "DesertFestival": "800 Desert 22 53/1200 Desert 26 31"
             }
         },
@@ -39,7 +39,7 @@
             "Target": "Characters/schedules/{{ModId}}_girl2",
             "Entries": {
                 "spring": "1000 Town 26 52 3/1300 Town 30 52 2 square_2_3/1010 Town 0 0 HMK_Home",
-                "winter": "800 ArchaeologyHouse 38 10 1 square_5_3",
+                "winter": "800 ArchaeologyHouse 38 10 1 square_5_3/1010 Town 0 0 HMK_Home",
                 "DesertFestival": "800 Desert 22 54/1200 Desert 27 33"
             }
         }

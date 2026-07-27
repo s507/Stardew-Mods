@@ -15,7 +15,7 @@
                 "HMK_Endearment_Male": "dad",
                 "HMK_Endearment_Female": "mama",
                 //
-                "FarmHouse_Mon": "{{i18n:boy1.Dialog.Mon}}",
+                "FarmHouse_Mon": "{{i18n:boy1.Dialog.Mon}} [HMK_Endearment]$4",
                 "Farm_Mon": "dialog",
                 "Tue": "{{i18n:boy1.Dialog.Tue}}",
                 "Wed": "{{i18n:boy1.Dialog.Wed}}",

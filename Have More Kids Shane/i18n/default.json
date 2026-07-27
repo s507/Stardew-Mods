@@ -3,7 +3,7 @@
     // $0 - netural, $1 happy, $2 sad, $3 curious, $4 dissapointed(?), $5 angry, $6 excited   
     //                                            
     "boy1.DisplayName": "Derek",
-    "boy1.Dialog.Mon": "I'm tired$4",
+    "boy1.Dialog.Mon": "I'm tired",
     "boy1.Dialog.Tue": "Tue Dialogue",
     "boy1.Dialog.Wed": "Wed Dialogue",
     "boy1.Dialog.Thu": "Thu Dialogue",

@@ -5,3 +5,6 @@ mod pack for [Have More Kids](https://github.com/Mushymato/HaveMoreKids/tree/mai
 - Misc changes
 - Stuff i've forgotten by now.
 - I'll keep this updated I promise.
+
+- Updated code since dialogue borked
+- changed dialouge to dialogue since that's the right spelling

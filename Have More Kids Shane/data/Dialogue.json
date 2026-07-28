@@ -1,6 +1,6 @@
 {
     "Changes": [
-        // this is an ordinary vanilla dialogue asset, and accepts all the same keys
+        // this is an ordinary vanilla Dialogue asset, and accepts all the same keys
         // expression keys
         // $0 - netural, $1 happy, $2 sad, $3 curious, $4 dissapointed(?), $5 angry, $6 excited
         {

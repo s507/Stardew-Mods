@@ -1,7 +1,7 @@
 {
     "Changes": [
         //////////////////////////////////////////////////////////////////////////////
-        ///// Schedules 
+        ///// schedules 
         {
             "Action": "Load",
             "Target": "Character/schedules/{{ModId}}_boy1, Character/schedules/{{ModId}}_boy2, Character/schedules/{{ModId}}_girl1, Character/schedules/{{ModId}}_girl2",

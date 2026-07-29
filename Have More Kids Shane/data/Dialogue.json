@@ -72,7 +72,6 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/girl2",
             "Entries": {
-
                 "FarmHouse_Mon": "{{i18n:girl2.Dialog.Mon}}",
                 "Farm_Mon": "dialog",
                 "Tue": "{{i18n:girl2.Dialog.Tue}}",

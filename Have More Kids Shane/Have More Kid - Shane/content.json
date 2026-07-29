@@ -1,0 +1,63 @@
+{
+    "Format": "2.9.0",
+    "DynamicTokens": [
+        // odd years
+        // "Query: {{Year}} % 2 = 1": true
+        // even years
+        // "Query: {{Year}} % 2 = 0": true
+    ],
+    "Changes": [
+        {
+            // Derek
+            "LogName": "boy 1 data",
+            "Action": "Include",
+            "FromFile": "data/Kid.json",
+            "LocalTokens": {
+                "L@Kid": "boy1",
+                "L@Gender": "Male",
+                "HomeTileX": 12,
+                "HomeTileY": 22
+            }
+        },
+        {
+            // Peter
+            "LogName": "boy 2 data",
+            "Action": "Include",
+            "FromFile": "data/Kid.json",
+            "LocalTokens": {
+                "L@Kid": "boy2",
+                "L@Gender": "Male",
+                "HomeTileX": 12,
+                "HomeTileY": 23
+            }
+        },
+        {
+            // Emilia
+            "LogName": "girl 1 data",
+            "Action": "Include",
+            "FromFile": "data/Kid.json",
+            "LocalTokens": {
+                "L@Kid": "girl1",
+                "L@Gender": "Female",
+                "HomeTileX": 14,
+                "HomeTileY": 22
+            }
+        },
+        {
+            // Charlotte
+            "LogName": "girl 2 data",
+            "Action": "Include",
+            "FromFile": "data/Kid.json",
+            "LocalTokens": {
+                "L@Kid": "girl2",
+                "L@Gender": "Female",
+                "HomeTileX": 14,
+                "HomeTileY": 23
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "Data/Dialogue.json, Data/GiftTastes.json, Data/schedules.json, Data/Misc.json"
+        }
+    ]
+}

@@ -41,7 +41,8 @@
             "Entries": {
                 "{{ModId}}_{{L@kid}}": {
                     "Parent": "Shane",
-                    "RoamOnFarmCondition": "!WEATHER Farm GreenRain Rain Snow Storm"
+                    "RoamOnFarmCondition": "!WEATHER Farm GreenRain Rain Snow Storm",
+                    "IsNPCTodayCondition": "True"
                 }
             }
         },
@@ -53,7 +54,6 @@
                 "{{ModId}}_{{L@Kid}}": {
                     "DisplayName": "{{i18n:{{L@Kid}}.DisplayName}}",
                     "Gender": "{{L@Gender}}",
-                    "IsNPCTodayCondition": "True",
                     "Home": [
                         {
                             "Id": "default",

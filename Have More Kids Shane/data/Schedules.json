@@ -4,43 +4,43 @@
         ///// schedules 
         {
             "Action": "Load",
-            "Target": "Character/schedules/{{ModId}}_boy1, Character/schedules/{{ModId}}_boy2, Character/schedules/{{ModId}}_girl1, Character/schedules/{{ModId}}_girl2",
+            "Target": "Characters/schedules/{{ModId}}_boy1, Characters/schedules/{{ModId}}_boy2, Characters/schedules/{{ModId}}_girl1, Characters/schedules/{{ModId}}_girl2",
             "FromFile": "data/blank.json"
         },
         {
             "Action": "EditData",
             "Target": "Characters/schedules/{{ModId}}_boy1",
             "Entries": {
-                "spring": "610 BusStop 16 22 2/1000 Town 26 52 3/1300 Town 27 52 2 square_2_3/1010 Town 0 0 HMK_Home",
-                "winter": "800 ArchaeologyHouse 35 10 1 square_5_3/1010 Town 0 0 HMK_Home",
-                "DesertFestival": "800 Desert 22 51/1200 Desert 24 31"
+                "spring": "0700 Town 23 52 2/1710 Mountain 0 0 HMK_Home",
+                "summer": "0000 Mountain 43 23 2/0700 Town 23 52 2/1710 Town 0 0 HMK_Home",
+                "DesertFestival": "0800 Desert 22 51/1200 Desert 24 31/1730 Town 0 0 HMK_Home"
             }
         },
         {
             "Action": "EditData",
             "Target": "Characters/schedules/{{ModId}}_boy2",
             "Entries": {
-                "spring": "0700 Town 23 52 2/1330 SeedShop 9 26 2/1510 Town 0 0 HMK_Home",
-                "winter": "800 ArchaeologyHouse 36 10 1 square_5_3/1010 Town 0 0 HMK_Home",
-                "DesertFestival": "800 Desert 22 52/1200 Desert 25 32"
+                "spring": "0700 Town 23 52 2/1710 Mountain 0 0 HMK_Home",
+                "summer": "0000 Mountain 43 23 2/0700 Town 23 52 2/1710 Town 0 0 HMK_Home",
+                "DesertFestival": "0800 Desert 22 51/1200 Desert 24 31/1730 Town 0 0 HMK_Home"
             }
         },
         {
             "Action": "EditData",
             "Target": "Characters/schedules/{{ModId}}_girl1",
             "Entries": {
-                "spring": "1000 Town 26 52 3/1300 Town 29 52 2 square_2_3/1010 Town 0 0 HMK_Home",
-                "winter": "800 ArchaeologyHouse 37 10 1 square_5_3/1010 Town 0 0 HMK_Home",
-                "DesertFestival": "800 Desert 22 53/1200 Desert 26 31"
+                "spring": "0700 Town 23 52 2/1710 Mountain 0 0 HMK_Home",
+                "summer": "0000 Mountain 43 23 2/0700 Town 23 52 2/1710 Town 0 0 HMK_Home",
+                "DesertFestival": "0800 Desert 22 51/1200 Desert 24 31/1730 Town 0 0 HMK_Home"
             }
         },
         {
             "Action": "EditData",
             "Target": "Characters/schedules/{{ModId}}_girl2",
             "Entries": {
-                "spring": "1000 Town 26 52 3/1300 Town 30 52 2 square_2_3/1010 Town 0 0 HMK_Home",
-                "winter": "800 ArchaeologyHouse 38 10 1 square_5_3/1010 Town 0 0 HMK_Home",
-                "DesertFestival": "800 Desert 22 54/1200 Desert 27 33"
+                "spring": "0700 Town 23 52 2/1710 Mountain 0 0 HMK_Home",
+                "summer": "0000 Mountain 43 23 2/0700 Town 23 52 2/1710 Town 0 0 HMK_Home",
+                "DesertFestival": "0800 Desert 22 51/1200 Desert 24 31/1730 Town 0 0 HMK_Home"
             }
         }
     ]

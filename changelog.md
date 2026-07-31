@@ -8,3 +8,4 @@ mod pack for [Have More Kids](https://github.com/Mushymato/HaveMoreKids/tree/mai
 
 ## 1.5.1
 - FINALLY (hopefully) fixed the error of having `IsNPCTodayCondition` in the wrong code block. 
+- more schedule/dialouge instances. we're building here

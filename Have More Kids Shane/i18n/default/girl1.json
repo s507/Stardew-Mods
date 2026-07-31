@@ -1,0 +1,57 @@
+{
+    // ➤➤➤ ｇｉｒｌ １ - Emilia
+    // $0 - netural, $1 happy, $2 sad, $3 curious, $4 dissapointed(?), $5 angry, $6 excited   
+    //
+    "girl1.DisplayName": "Emilia",
+    "girl1.Dialog.Mon": "Can I go back to bed?$4",
+    "girl1.Dialog.Tue": "I'm still a little sleepy...$4",
+    "girl1.Dialog.Wed": "Can we PLEASE get pancakes??? please please please$1",
+    "girl1.Dialog.Thu": "Aunt Marnie said chickens lay eggs. From where?$3",
+    "girl1.Dialog.Fri": "It's friday!!! That means MORE NAPS!$1",
+    "girl1.Dialog.Sat": "Sat Dialogue$2",
+    "girl1.Dialog.Sun": "Sun Dialogue$6",
+    //
+    // ⸻⸻⸻⸻⸻ //
+    // WEATHER COMMENTS //
+    "girl1.Dialog.GreenRain": "Everything is green$3",
+    "girl1.Dialog.GreenRain2": "Here we go again",
+    // ⸻⸻⸻⸻⸻ //
+    // FESTIVAL DAYS (NOT IN THE LOCATION)
+    //
+    "girl1.Dialog.fall27": "I can't wait for Spirits Eve!!$1#$b#But it's sooo late, I hope I don't fall asleep.$3",
+    //
+    // ⸻⸻⸻⸻⸻ //
+    // ACTIVE FESTIVALS                                         
+    // 
+    // Egg Festival
+    "girl1.FestDialog.spring13": "Egg Festival",
+    // FlowerDance
+    "girl1.FestDialog.spring24": "I'm going to watch you dance!$1",
+    // Luau
+    "girl1.FestDialog.summer11": "Luau",
+    // Dance of the Moonlight Jellies
+    "girl1.FestDialog.summer28": "Dance of the Moonlight Jellies",
+    // Stardew Valley Fair
+    "girl1.FestDialog.fall16": "Stardew Valley Fair",
+    // Spirit's Eve
+    "girl1.FestDialog.fall27": "Spirit's Eve",
+    // Festival of Ice
+    "girl1.FestDialog.winter8": "Festival of Ice",
+    // Feast of the Winter Star
+    "girl1.FestDialog.winter25": "Feast of the Winter Star",
+    //                                                  
+    // ⸻⸻⸻⸻⸻ //
+    // PASSIVE FESTIVALS
+    //
+    // Desert Festival
+    "girl1.Dialog.DesertFestival": "Desert Festival",
+    //                                                                                                                               
+    // ⸻⸻⸻⸻⸻ //
+    // GIFT TASTES
+    //            
+    "girl1.Dialog.Gift.Love": "Thank you, thank you, thank you!!!$6",
+    "girl1.Dialog.Gift.Like": "Thanks.",
+    "girl1.Dialog.Gift.Dislike": "Yuck.",
+    "girl1.Dialog.Gift.Hate": "Are you mad at me?$3",
+    "girl1.Dialog.Gift.Neutral": "Okay."
+}

@@ -1,0 +1,61 @@
+{
+    // ➤➤➤ ｂｏｙ １ - Derek
+    // $0 - netural, $1 happy, $2 sad, $3 curious, $4 dissapointed(?), $5 angry, $6 excited   
+    //                                            
+    "boy1.DisplayName": "Derek",
+    "boy1.Dialog.Mon": "I'm tired",
+    "boy1.Dialog.Tue": "Tue Dialogue",
+    "boy1.Dialog.Wed": "Wed Dialogue",
+    "boy1.Dialog.Thu": "Thu Dialogue",
+    "boy1.Dialog.Fri": "Fri Dialogue",
+    "boy1.Dialog.Sat": "Sat Dialogue",
+    "boy1.Dialog.Sun": "Sun Dialogue",
+    //
+    // ⸻⸻⸻⸻⸻ //
+    // WEATHER COMMENTS //
+    "boy1.Dialog.GreenRain": "Everything is green$3",
+    "boy1.Dialog.GreenRain2": "Here we go again",
+    // ⸻⸻⸻⸻⸻ //
+    // FESTIVAL DAYS (NOT IN THE LOCATION)
+    //
+    "boy1.Dialog.fall27": "I love to dress up!$1",
+    //                                                  
+    // ⸻⸻⸻⸻⸻ //
+    // ACTIVE FESTIVALS                                         
+    // 
+    // Egg Festival
+    "boy1.FestDialog.spring13": "Egg Festival",
+    "boy1.FestDialog.Year2.spring13": "Egg Festival",
+    // FlowerDance
+    "boy1.FestDialog.spring24": "When can we go?$2",
+    // Luau
+    "boy1.FestDialog.summer11": "Luau",
+    // Dance of the Moonlight Jellies
+    "boy1.FestDialog.summer28": "Dance of the Moonlight Jellies",
+    // Stardew Valley Fair
+    "boy1.FestDialog.fall16": "Stardew Valley Fair",
+    // Spirit's Eve
+    "boy1.FestDialog.fall27": "Everyone looks so cool! I look cool too right Mama?",
+    // Festival of Ice
+    "boy1.FestDialog.winter8": "Festival of Ice",
+    // Feast of the Winter Star
+    "boy1.FestDialog.winter25": "Feast of the Winter Star",
+    //                                                  
+    // ⸻⸻⸻⸻⸻ //
+    // PASSIVE FESTIVALS
+    //
+    // Desert Festival
+    "boy1.Dialog.DesertFestival": "Desert Festival",
+    //                                                                                                                               
+    // ⸻⸻⸻⸻⸻ //
+    // GIFT TASTES
+    //                                                                 
+    "boy1.Dialog.Gift.Love": "This is what I wanted!$6#$b#Did you read my mind to know?$3",
+    "boy1.Dialog.Gift.Like": "Liked Gift",
+    "boy1.Dialog.Gift.Dislike": "Dislike Gift",
+    "boy1.Dialog.Gift.Hate": "Hated Gift",
+    "boy1.Dialog.Gift.Neutral": "Neutral Gift",
+    // LOCATION
+    // 
+    "boy1.Dialog.ArchaeologyHouse":""
+}

@@ -1,0 +1,22 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "Entries": {
+                "{{ModId}}_boy1": {
+                    "MarkerCropOffset": -5
+                },
+                "{{ModId}}_girl1": {
+                    "MarkerCropOffset": -5
+                },
+                "{{ModId}}_boy2": {
+                    "MarkerCropOffset": -5
+                },
+                "{{ModId}}_girl2": {
+                    "MarkerCropOffset": -5
+                }
+            }
+        }
+    ]
+}

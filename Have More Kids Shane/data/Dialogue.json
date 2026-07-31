@@ -5,7 +5,7 @@
         // $0 - netural, $1 happy, $2 sad, $3 curious, $4 dissapointed(?), $5 angry, $6 excited
         {
             "Action": "Load",
-            "Target": "Characters/Dialogue/{{ModId}}_boy1, Character/Dialogue/{{ModId}}_boy2, Character/Dialogue/{{ModId}}_girl1, Character/Dialogue/{{ModId}}_girl2",
+            "Target": "Characters/Dialogue/{{ModId}}_boy1, Characters/Dialogue/{{ModId}}_boy2, Characters/Dialogue/{{ModId}}_girl1, Characters/Dialogue/{{ModId}}_girl2",
             "FromFile": "data/blank.json"
         },
         {
@@ -15,7 +15,7 @@
                 "HMK_Endearment_Male": "dad",
                 "HMK_Endearment_Female": "mama",
                 //
-                "FarmHouse_Mon": "{{i18n:boy1.Dialog.Mon}} [HMK_Endearment]$4",
+                "FarmHouse_Mon": "{{i18n:boy1.Dialog.Mon}} [HMK_EndearmentCap]$4",
                 "Farm_Mon": "dialog",
                 "Tue": "{{i18n:boy1.Dialog.Tue}}",
                 "Wed": "{{i18n:boy1.Dialog.Wed}}",
@@ -27,13 +27,42 @@
                 "GreenRain": "{{i18n:boy1.Dialog.GreenRain}}",
                 "GreenRain_2": "{{i18n:boy1.Dialog.GreenRain2}}",
                 //
-                "fall_27_*": "{{i18n:boy1.Dialog.fall27}}"
+                "fall_27_*": "{{i18n:boy1.Dialog.fall27}}",
+                //
+                "ArchaeologyHouse_Entry": "time to study [HMK_EndearmentCap]!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/{{ModId}}_girl1",
+            "Entries": {
+                "HMK_Endearment_Male": "dad",
+                "HMK_Endearment_Female": "mama",
+                //
+                "FarmHouse_Mon": "{{i18n:girl1.Dialog.Mon}}",
+                "Farm_Mon": "dialog",
+                "Tue": "{{i18n:girl1.Dialog.Tue}}",
+                "Wed": "{{i18n:girl1.Dialog.Wed}}",
+                "Thu": "{{i18n:girl1.Dialog.Thu}}",
+                "Fri": "{{i18n:girl1.Dialog.Fri}}",
+                "Sat": "{{i18n:girl1.Dialog.Sat}}",
+                "Sun": "{{i18n:girl1.Dialog.Sun}}",
+                //
+                "GreenRain": "{{i18n:girl1.Dialog.GreenRain}}",
+                "GreenRain_2": "{{i18n:girl1.Dialog.GreenRain2}}",
+                //
+                "fall_27_*": "{{i18n:girl1.Dialog.fall27}}",
+                //
+                "ArchaeologyHouse_Entry": "Do I have to study?$4"
             }
         },
         {
             "Action": "EditData",
             "Target": "Characters/Dialogue/{{ModId}}_boy2",
             "Entries": {
+                "HMK_Endearment_Male": "dad",
+                "HMK_Endearment_Female": "mama",
+                //
                 "FarmHouse_Mon": "{{i18n:boy2.Dialog.Mon}}",
                 "Farm_Mon": "dialog",
                 "Tue": "{{i18n:boy2.Dialog.Tue}}",
@@ -51,27 +80,11 @@
         },
         {
             "Action": "EditData",
-            "Target": "Characters/Dialogue/{{ModId}}_girl1",
+            "Target": "Characters/Dialogue/{{ModId}}_girl2",
             "Entries": {
-                "FarmHouse_Mon": "{{i18n:girl1.Dialog.Mon}}",
-                "Farm_Mon": "dialog",
-                "Tue": "{{i18n:girl1.Dialog.Tue}}",
-                "Wed": "{{i18n:girl1.Dialog.Wed}}",
-                "Thu": "{{i18n:girl1.Dialog.Thu}}",
-                "Fri": "{{i18n:girl1.Dialog.Fri}}",
-                "Sat": "{{i18n:girl1.Dialog.Sat}}",
-                "Sun": "{{i18n:girl1.Dialog.Sun}}",
+                "HMK_Endearment_Male": "dad",
+                "HMK_Endearment_Female": "mama",
                 //
-                "GreenRain": "{{i18n:girl1.Dialog.GreenRain}}",
-                "GreenRain_2": "{{i18n:girl1.Dialog.GreenRain2}}",
-                //
-                "fall_27_*": "{{i18n:girl1.Dialog.fall27}}"
-            }
-        },
-        {
-            "Action": "EditData",
-            "Target": "Characters/Dialogue/girl2",
-            "Entries": {
                 "FarmHouse_Mon": "{{i18n:girl2.Dialog.Mon}}",
                 "Farm_Mon": "dialog",
                 "Tue": "{{i18n:girl2.Dialog.Tue}}",

@@ -42,7 +42,7 @@
                 "{{ModId}}_{{L@kid}}": {
                     "Parent": "Shane",
                     "RoamOnFarmCondition": "!WEATHER Farm GreenRain Rain Snow Storm",
-                    "IsNPCTodayCondition": "True"
+                    "IsNPCTodayCondition": "!WEATHER Farm GreenRain Rain Snow Storm"
                 }
             }
         },

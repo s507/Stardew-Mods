@@ -20,6 +20,18 @@
             }
         },
         {
+            // Emilia
+            "LogName": "girl 1 data",
+            "Action": "Include",
+            "FromFile": "data/Kid.json",
+            "LocalTokens": {
+                "L@Kid": "girl1",
+                "L@Gender": "Female",
+                "HomeTileX": 14,
+                "HomeTileY": 23
+            }
+        },
+        {
             // Peter
             "LogName": "boy 2 data",
             "Action": "Include",
@@ -29,18 +41,6 @@
                 "L@Gender": "Male",
                 "HomeTileX": 12,
                 "HomeTileY": 23
-            }
-        },
-        {
-            // Emilia
-            "LogName": "girl 1 data",
-            "Action": "Include",
-            "FromFile": "data/Kid.json",
-            "LocalTokens": {
-                "L@Kid": "girl1",
-                "L@Gender": "Female",
-                "HomeTileX": 14,
-                "HomeTileY": 22
             }
         },
         {
@@ -58,6 +58,13 @@
         {
             "Action": "Include",
             "FromFile": "Data/Dialogue.json, Data/GiftTastes.json, Data/schedules.json, Data/Misc.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "Patches/NPCMapLocations.json",
+            "When": {
+                "HasMod": "Bouhm.NPCMapLocations"
+            }
         }
     ]
 }

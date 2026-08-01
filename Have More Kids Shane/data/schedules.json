@@ -11,9 +11,10 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "{{modid}}_boy1_sit": "21 22/22/21",
-                "{{modid}}_boy1_sleep": "50/50/50",
-                "{{modid}}_girl1_sit": "21 22/22/21",
+                "{{modid}}_boy1_sit_right": "21 22/22/22",
+                "{{modid}}_girl1_sit_right": "21 22/22/22",
+                "{{modid}}_girl1_sit_left": "26 25/25/25",
+                "{{modid}}_boy1_sleep": "23/23/23",
                 "{{modid}}_girl1_sleep": "23/23/23"
             }
         },
@@ -21,7 +22,7 @@
             "Action": "EditData",
             "Target": "Characters/schedules/{{ModId}}_boy1",
             "Entries": {
-                "spring": "0700 ArchaeologyHouse 13 9 {{ModId}}_boy1_sit/1410 Town 0 0 HMK_Home",
+                "spring": "0700 BusStop 16 23/0710 ArchaeologyHouse 10 10 {{modid}}_boy1_sit_right/1410 Town 0 0 HMK_Home",
                 "DesertFestival": "0800 Desert 22 51/1200 Desert 24 31/1730 Town 0 0 HMK_Home"
             }
         },
@@ -29,25 +30,23 @@
             "Action": "EditData",
             "Target": "Characters/schedules/{{ModId}}_girl1",
             "Entries": {
-                "spring": "0690 ArchaeologyHouse 12 9 {{ModId}}_girl1_sit/1410 Town 0 0 HMK_Home",
+                "spring": "0710 BusStop 18 23/0720 ArchaeologyHouse 12 10 {{modid}}_girl1_sit_left/1410 Town 0 0 HMK_Home",
                 "DesertFestival": "0800 Desert 22 51/1200 Desert 24 31/1730 Town 0 0 HMK_Home"
             }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Characters/schedules/{{ModId}}_boy2",
+            "Entries": {
+                "spring": "0800 BusStop 22 23/0810 Town 23 52 HMK_Home"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Characters/schedules/{{ModId}}_girl2",
+            "Entries": {
+                "spring": "0810 BusStop 18 23/0820 Town 23 52 HMK_Home"
+            }
         }
-        // {
-        //     "Action": "EditData",
-        //     "Target": "Characters/schedules/{{ModId}}_boy2",
-        //     "Entries": {
-        //         "spring": "0700 Town 23 52 2/1710 Mountain 0 0 HMK_Home",
-        //         "DesertFestival": "0800 Desert 22 51/1200 Desert 24 31/1730 Town 0 0 HMK_Home"
-        //     }
-        // },
-        // {
-        //     "Action": "EditData",
-        //     "Target": "Characters/schedules/{{ModId}}_girl2",
-        //    "Entries": {
-        //        "spring": "0700 Town 23 52 2/1710 Mountain 0 0 HMK_Home",
-        // "DesertFestival": "0800 Desert 22 51/1200 Desert 24 31/1730 Town 0 0 HMK_Home"
-        //    }
-        //  }
     ]
 }

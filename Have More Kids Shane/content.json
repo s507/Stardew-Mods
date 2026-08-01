@@ -15,8 +15,8 @@
             "LocalTokens": {
                 "L@Kid": "boy1",
                 "L@Gender": "Male",
-                "HomeTileX": 12,
-                "HomeTileY": 22
+                "HomeTileX": 16,
+                "HomeTileY": 23
             }
         },
         {
@@ -27,7 +27,7 @@
             "LocalTokens": {
                 "L@Kid": "girl1",
                 "L@Gender": "Female",
-                "HomeTileX": 14,
+                "HomeTileX": 18,
                 "HomeTileY": 23
             }
         },
@@ -39,7 +39,7 @@
             "LocalTokens": {
                 "L@Kid": "boy2",
                 "L@Gender": "Male",
-                "HomeTileX": 12,
+                "HomeTileX": 20,
                 "HomeTileY": 23
             }
         },
@@ -51,19 +51,40 @@
             "LocalTokens": {
                 "L@Kid": "girl2",
                 "L@Gender": "Female",
-                "HomeTileX": 14,
+                "HomeTileX": 22,
                 "HomeTileY": 23
             }
         },
         {
             "Action": "Include",
-            "FromFile": "Data/Dialogue.json, Data/GiftTastes.json, Data/schedules.json, Data/Misc.json"
+            "FromFile": "data/Dialogue.json, data/GiftTastes.json, data/schedules.json, data/Misc.json"
         },
         {
             "Action": "Include",
-            "FromFile": "Patches/NPCMapLocations.json",
-            "When": {
-                "HasMod": "Bouhm.NPCMapLocations"
+            "FromFile": "patches/NPCMapLocations.json",
+            "LocalTokens": {
+                "L@Kid": "boy1"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "patches/NPCMapLocations.json",
+            "LocalTokens": {
+                "L@Kid": "boy2"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "patches/NPCMapLocations.json",
+            "LocalTokens": {
+                "L@Kid": "girl1"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "patches/NPCMapLocations.json",
+            "LocalTokens": {
+                "L@Kid": "girl2"
             }
         }
     ]

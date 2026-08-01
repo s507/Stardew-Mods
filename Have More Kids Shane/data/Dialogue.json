@@ -29,7 +29,7 @@
                 //
                 "fall_27_*": "{{i18n:boy1.Dialog.fall27}}",
                 //
-                "ArchaeologyHouse_Entry": "time to study [HMK_EndearmentCap]!"
+                "ArchaeologyHouse_10_10": "Time to study [HMK_EndearmentCap]!"
             }
         },
         {
@@ -53,7 +53,7 @@
                 //
                 "fall_27_*": "{{i18n:girl1.Dialog.fall27}}",
                 //
-                "ArchaeologyHouse_Entry": "Do I have to study?$4"
+                "ArchaeologyHouse_12_10": "Do I have to study?$4"
             }
         },
         {

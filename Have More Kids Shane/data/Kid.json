@@ -159,6 +159,14 @@
                     ]
                 }
             }
+        },
+        // NPC MAP LOCATIONS compability. makes the kid's heads visible on the map
+        {
+            "Action": "Include",
+            "FromFile": "patches/NPCMapLocations.json",
+            "When": {
+                "HasMod": "Bouhm.NPCMapLocations"
+            }
         }
     ]
 }

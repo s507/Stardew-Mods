@@ -58,34 +58,6 @@
         {
             "Action": "Include",
             "FromFile": "data/Dialogue.json, data/GiftTastes.json, data/schedules.json, data/Misc.json"
-        },
-        {
-            "Action": "Include",
-            "FromFile": "patches/NPCMapLocations.json",
-            "LocalTokens": {
-                "L@Kid": "boy1"
-            }
-        },
-        {
-            "Action": "Include",
-            "FromFile": "patches/NPCMapLocations.json",
-            "LocalTokens": {
-                "L@Kid": "boy2"
-            }
-        },
-        {
-            "Action": "Include",
-            "FromFile": "patches/NPCMapLocations.json",
-            "LocalTokens": {
-                "L@Kid": "girl1"
-            }
-        },
-        {
-            "Action": "Include",
-            "FromFile": "patches/NPCMapLocations.json",
-            "LocalTokens": {
-                "L@Kid": "girl2"
-            }
         }
     ]
 }
